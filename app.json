@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Muzic",
+    "slug": "Muzic",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Muzic"
+}
